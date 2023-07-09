@@ -7,6 +7,9 @@ import { SidebarData } from './sidebardata'
 import Link from 'next/link'
 import Navbar from './navbar/page'
 
+//Reference link: https://www.youtube.com/watch?v=MszSqhEw__8
+//https://github.com/Sridhar-C-25/sidebar_reactTailwind/blob/main/src/App.jsx
+
 export default function MainLayout({ children }) {
 
 
